@@ -62,10 +62,45 @@ body {
     width: 500px;
 }
 
-.image-main-body {
-    padding: 16px;
-}
 
 .text-main-body {
     padding: 16px;
 }
+
+.social-links {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.second-header {
+    display: flex;
+    justify-content: center;
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+    align-items: center;
+    padding: 35px;
+    
+}
+
+.social-image {
+    height: auto;
+    width: 200px;
+}
+
+.social-text {
+    display: flex;
+    justify-content: center;
+    padding: 16px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+    color: #E5E7EB;
+}
+
+
+
